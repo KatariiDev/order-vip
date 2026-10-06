@@ -345,4 +345,5 @@ void inThongTin(SinhVien sv) {
     }
     while (luaChon != 0);
     return 0;
+    //chupapi
 }
